@@ -1,0 +1,14 @@
+{
+  "name": "metal-and-stars-legacy-routes",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "Metal and Stars: Legacy Routes",
+  "author": "FactorioMods",
+  "description": "Retains the original direct Nauvis, Shipyard, Fulgora and Nix connections alongside the current Metal and Stars network.",
+  "dependencies": [
+    "base >= 2.1.24",
+    "space-age >= 2.1.0",
+    "metal-and-stars-updated >= 0.1.20"
+  ],
+  "space_travel_required": true
+}

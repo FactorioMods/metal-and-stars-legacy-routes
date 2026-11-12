@@ -1,0 +1,4 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+  Features:
+    - Retains the original Nauvis–Shipyard, Shipyard–Fulgora and Fulgora–Nix direct routes alongside the current network.
